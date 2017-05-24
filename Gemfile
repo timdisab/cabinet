@@ -38,6 +38,8 @@ gem 'simple_form', '~> 3.4'
 
 gem 'haml', '~> 5.0', '>= 5.0.1'
 
+gem 'coffee-script-source', '1.8.0'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
